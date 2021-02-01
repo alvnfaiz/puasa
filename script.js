@@ -1,4 +1,4 @@
-const date1 = new Date().getDate();
+const date1 = new Date();
 const date2 = new Date('12/4/2021');
 const date3 = new Date('12/5/2021');
 const diffTime = Math.abs(date2 - date1);
